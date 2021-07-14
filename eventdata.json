@@ -1,4 +1,4 @@
-﻿{
+{
   "tornado": {
     "EventType": "Default",
     "Mod": "Twitch Toolkit"
@@ -358,5 +358,25 @@
   "sanctuary": {
     "EventType": "Default",
     "Mod": "ToolkitUtils"
+  },
+  "hailstorm": {
+    "EventType": "Default",
+    "Mod": "TwitchToolkit Bridge - Vanilla Events Expanded"
+  },
+  "earthquake": {
+    "EventType": "Default",
+    "Mod": "TwitchToolkit Bridge - Vanilla Events Expanded"
+  },
+  "cropsprout": {
+    "EventType": "Default",
+    "Mod": "TwitchToolkit Bridge - Vanilla Events Expanded"
+  },
+  "drought": {
+    "EventType": "Default",
+    "Mod": "TwitchToolkit Bridge - Vanilla Events Expanded"
+  },
+  "huntingparty": {
+    "EventType": "Default",
+    "Mod": "TwitchToolkit Bridge - Vanilla Events Expanded"
   }
 }
