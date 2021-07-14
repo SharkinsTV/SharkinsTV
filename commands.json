@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "data": {
       "isShortcut": false,
@@ -136,19 +136,6 @@
       "isBalance": false,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer some of your coins.",
-    "name": "Gift coins",
-    "usage": "!giftcoins <viewer> <amount>",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "mod": "Twitch Toolkit"
-    },
     "description": null,
     "name": "Join queue",
     "usage": "!joinqueue",
@@ -242,7 +229,7 @@
     },
     "description": "Shows you the complete list of installed mods.",
     "name": "Installed mods",
-    "usage": "!modlist",
+    "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -771,38 +758,12 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "mod": "Unknown"
-    },
-    "description": null,
-    "name": null,
-    "usage": "!kindword",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
       "mod": "ToolkitRimWorld"
     },
     "description": null,
     "name": "hello",
     "usage": "!hello",
     "userLevel": "Moderator",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "mod": "ToolkitRaids"
-    },
-    "description": null,
-    "name": "joinraid",
-    "usage": "!joinraid",
-    "userLevel": "Anyone",
     "shortcut": false
   }
 ]
