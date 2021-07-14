@@ -1,6 +1,6 @@
-const itemListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/StoreItems.json";
-const eventListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/StoreIncidents.json";
-const shopExtURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/ShopExt.json";
+const itemListURL = "https://raw.githubusercontent.com/SharkinsTV/SharkinsTV/main/StoreItems.json";
+const eventListURL = "https://raw.githubusercontent.com/SharkinsTV/SharkinsTV/main/StoreIncidents.json";
+const shopExtURL = "https://raw.githubusercontent.com/SharkinsTV/SharkinsTV/main/ShopExt.json";
 
 let itemList = null;
 $.getJSON(itemListURL, function(data) {
