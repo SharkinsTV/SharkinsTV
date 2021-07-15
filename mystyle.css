@@ -49,11 +49,11 @@ div.form-group {
 }
 
 .list {
-    background-color: #99a0bb;
+    background-color: #039be5;
 }
 
 .list>tr:nth-child(odd) {
-    background-color: #103d72;
+    background-color: #40c4ff;
 }
 
 ​        .sort:after {
